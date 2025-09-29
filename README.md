@@ -42,6 +42,13 @@
   </a>
 </div>
 
+##
+##
+This is a forked repo for the LALM-Faithfulness paper, for better reproducibility.  
+Code -  https://github.com/lovenya/Measuring-Faithfulness-of-CoT-Reasoning-LALMs.git  
+Paper - https://arxiv.org/abs/2509.22363
+##
+##
 
 ## Overview
 
