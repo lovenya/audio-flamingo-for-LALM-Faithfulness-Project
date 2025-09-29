@@ -11,7 +11,6 @@
 </div>
 
 ##
-##
 This is a forked repo with custom fixes for the LALM-Faithfulness paper, and also better reproducibility.  
 Code -  https://github.com/lovenya/Measuring-Faithfulness-of-CoT-Reasoning-LALMs.git  
 Paper - https://arxiv.org/abs/2509.22363
